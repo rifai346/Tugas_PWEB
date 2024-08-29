@@ -2,7 +2,12 @@
 
 ## Introduction
 
-Sistem Informasi Pembimbingan Akademik JKB (SIWALI JKB) adalah sistem manajemen pembimbingan akademik yang komprehensif yang dirancang untuk memperlancar proses pengelolaan kinerja mahasiswa, konseling, dan data akademik lainnya untuk institusi pendidikan tinggi
+Sistem Informasi Pembimbingan Akademik JKB (SIWALI JKB) adalah sistem manajemen pembimbingan akademik yang komprehensif yang dirancang untuk memperlancar proses pengelolaan kinerja mahasiswa, konseling, dan data akademik lainnya untuk institusi pendidikan tinggi.
+
+## Built With
+
+* PHP
+* Bootstrap
 
 ## Contents
 
